@@ -7,6 +7,7 @@ def my_hash
     "bread" => 2.50,
     "eggs" => 2.20,
     "milk" => 2.75
+  }
 end
 
 def pioneer
