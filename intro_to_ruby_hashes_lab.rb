@@ -4,7 +4,9 @@ end
 
 def my_hash
   shopping_list = { 
-    "bread" => 2
+    "bread" => 2.50,
+    "eggs" => 2.20,
+    
 end
 
 def pioneer
