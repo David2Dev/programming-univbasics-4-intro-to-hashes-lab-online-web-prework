@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash
-  shopping_list { 
+  shopping_list = { 
+    bread => 2.
 end
 
 def pioneer
