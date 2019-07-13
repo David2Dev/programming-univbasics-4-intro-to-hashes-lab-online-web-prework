@@ -34,5 +34,6 @@ end
 def update_counting_hash(hash, key)
   hash = {
     :pencil => 1
+    update_hash += 1
   }
 end
