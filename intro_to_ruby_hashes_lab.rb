@@ -16,7 +16,8 @@ def pioneer
 end
 
 def id_generator
-  id_generator = {:id => "5"
+  id_generator = {
+    :id => 5
   }
 end
 
