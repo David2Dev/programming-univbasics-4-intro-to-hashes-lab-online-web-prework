@@ -11,16 +11,17 @@ def my_hash
 end
 
 def pioneer
- pioneer = {:name => "Grace Hopper"
+  pioneer = {:name => "Grace Hopper"
   }
 end
 
 def id_generator
-  id_generator = 
+  id_generator = {:id => "5"
+  }
 end
 
 def my_hash_creator(key, value)
-  # return a hash that includes the key and value parameters passed into this method
+  
 end
 
 def read_from_hash(hash, key)
